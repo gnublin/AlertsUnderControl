@@ -1,0 +1,8 @@
+{
+    "name": "alerts-under-control",
+    "private": true,
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "*",
+        "uikit": "3.3.3"
+    }
+}
